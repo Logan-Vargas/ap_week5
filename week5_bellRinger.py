@@ -38,7 +38,6 @@ every_second_to_m = alphabet[0:13:2]
 
 # c. Reverse the entire string
 reversed_alphabet = alphabet[::-1]
-# 'zyxwvutsrqponmlkjihgfedcba'
 
 
 # Problem Set 2: Extracting Information
